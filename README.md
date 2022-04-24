@@ -1,4 +1,4 @@
-# Loan-Application-Form
+# Loan-Application-Form (using Javascript)
 
 In the loan application form there are many input fields and on most of the fields proper validation is required.
 
